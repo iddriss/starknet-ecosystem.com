@@ -8,6 +8,7 @@ Ecosystem TODO list - Feel free to update
 
 ### For developers
 - [ ] Add filter on dashboard permitting to filter by project status: all | live (mainnet) | testnet
+- [ ] Add a simple form to allow project owner to quickly list their project right form the website
 
 ### For UI developers
 - [ ] Responsive dropdown menu of project categories
